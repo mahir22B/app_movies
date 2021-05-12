@@ -1,0 +1,21 @@
+.movieResults {
+  background: rgb(19, 18, 18);
+  width: 100%;
+}
+
+.recom {
+  color: white;
+  position: absolute;
+  top: 45%;
+}
+
+img {
+  width: 30%;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.pic {
+  display: flex;
+  justify-content: space-evenly;
+}

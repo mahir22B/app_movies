@@ -1,0 +1,15 @@
+body {
+  overflow: hidden;
+}
+
+.App {
+  background: rgb(34, 31, 31);
+}
+
+.new {
+  display: flex;
+}
+
+.old {
+  width: 100%;
+}
